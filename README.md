@@ -46,6 +46,6 @@ O Herói de nome Vitinho está no nível de radiante
 
 Este projeto foi desenvolvido como parte dos desafios práticos da Formação Lógica de Programação da DIO, com o objetivo de praticar os conceitos fundamentais de programação.
 
-## 👨‍💻 Autor
+## 👨🏼‍💻 Autor
 
 Victor Duarte
